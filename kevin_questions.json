@@ -1,0 +1,154 @@
+[
+    { "title":"Physics",
+      "desc":"Do you have what it takes?",
+      "questions":[
+        {
+          "text":"Which of the following is not a type of energy",
+          "answer":"2",
+          "answers":[
+            "Kinetic",
+            "Wooden",
+            "Thermal",
+            "Potential"
+          ]
+        },
+                {
+          "text":"Which of these is a unit of work?",
+          "answer":"3",
+          "answers":[
+            "Watt",
+            "Meter",
+            "Joule",
+            "Newton"
+          ]
+        },
+                {
+          "text":"Which of Newton's Laws states that every action has an equal and opposite reaction?",
+          "answer":"3",
+          "answers":[
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+          ]
+        }
+        
+      ]
+    },
+    { "title":"Marvel Super Heroes", "desc": "Test Your Knowledge Before Thanos!",
+      "questions":[
+        {
+          "text":"What Hero has the top grossing solo film?,
+          "answer":"3",
+          "answers":[
+            "Iron Man",
+            "Captain America",
+            "Black Panther",
+            "Thor"
+          ]
+        },
+        {
+          "text":"What is the name of the upcoming Avengers movie?",
+          "answer":"4",
+          "answers":[
+            "Age of Ultron",
+            "War of Thanos",
+            "Battle for Earth",
+            "Infinity War"
+          ]
+        },
+        {
+          "text":"Which hero has the power to fly?",
+          "answer":"1",
+          "answers":[
+            "Vision",
+            "Hawkeye",
+            "Black Widow",
+            "Captain America"
+          ]
+        },
+                {
+          "text":"Where is Black Panther from?",
+          "answer":"4",
+          "answers":[
+            "Kenya",
+            "Ethiopia",
+            "Azerbaijan",
+            "Wakanda"
+          ]
+        }
+      ]
+    },
+    { "title":"Math",
+      "desc":"Are You Smarter than a 5th Grader?",
+      "questions":[
+        {
+          "text":"What is the derivative of 7x?",
+          "answer":"4",
+          "answers":[
+            "3.5x",
+            "7x",
+            "3.5",
+            "7"
+          ]
+        },
+                {
+          "text":"What is 9x9?",
+          "answer":"2",
+          "answers":[
+            "52",
+            "81",
+            "36",
+            "18"
+          ]
+        },
+        {
+          "text":"What is 5 / 1?",
+          "answer":"1",
+          "answers":[
+            "5",
+            "1",
+            "10",
+            "42"
+          ]
+        }
+        
+      ]
+    },
+    { "title":"Disney Trivia",
+      "desc":"How Much Disney Do YOU Know?",
+      "questions":[
+        {
+          "text":"Who was Walt Disney's top creation before Mickey Mouse?",
+          "answer":"2",
+          "answers":[
+            "Pluto the Yellow Dog",
+            "Oswald the Lucky Rabbit",
+            "Fred the Flying Chicken",
+            "Franklin the Brave Turtle"
+          ]
+        },
+                {
+          "text":"What new land opens up in Disney World in 2018?",
+          "answer":"1",
+          "answers":[
+            "Toy Story Land",
+            "Star Wars Land",
+            "Avengers Land",
+            "Seahawks Land"
+          ]
+        },
+        {
+          "text":"What Major Franchise Does Disney NOT Own?",
+          "answer":"3",
+          "answers":[
+            "Marvel Cinematic Universe",
+            "Star Wars",
+            "DC Comics",
+            "Toy Story"
+          ]
+        }
+        
+      ]
+    }
+]
